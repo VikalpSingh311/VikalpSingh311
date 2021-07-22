@@ -1,0 +1,9 @@
+2021-06-20 12:16:32,601 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\MavenWS\sampleproject\pom.xml
+2021-06-20 12:16:33,812 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.itcoach.maven:sampleproject:0.0.1-SNAPSHOT @ D:\MavenWS\sampleproject\pom.xml.
+2021-06-20 12:16:34,612 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sampleproject/src/main/java
+2021-06-20 12:16:34,631 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sampleproject/src/test/java
+2021-06-20 12:16:36,863 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2021-06-20 12:16:37,364 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-20 12:16:37,365 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MavenWS\sampleproject\src\main\resources
+2021-06-20 12:16:37,366 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-20 12:16:37,366 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MavenWS\sampleproject\src\test\resources
