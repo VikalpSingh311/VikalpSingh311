@@ -1,3 +1,4 @@
 this is a sample text file created from command line
 changed from github browser
 chnaged to trigger build
+chnagrd file
